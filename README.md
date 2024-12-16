@@ -4,7 +4,7 @@ I love speaking at events about projects I've worked on or technology I have use
 Previous Talks:
 
 - JSNation 2024 (pre-recorded): https://gitnation.com/contents/a-different-kind-of-serverless-a-case-study-for-sqlite-and-whispercpp
-- OpenFeature Summit (in-person): https://youtu.be/sb5yn-0q4SM?si=4IVQAKgi6nCSi5Z7
+- OpenFeature Summit 2024 (in-person): https://youtu.be/sb5yn-0q4SM?si=4IVQAKgi6nCSi5Z7
 - SquiggleConf 2024 (in-person): https://2024.squiggleconf.com/sessions#talk-chris-griffing (video not published yet)
 - React Summit 2023 (pre-recorded): https://gitnation.com/contents/trees-arent-just-foliage-asts-and-practical-usage
 - HugoConf 2022 (online): https://www.youtube.com/watch?v=z4n2qu7ZlSo
