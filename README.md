@@ -1,4 +1,4 @@
-# Public Speaking by Cmgriffing (Chris Griffing)
+# Public Speaking by Chris Griffing (cmgriffing)
 
 I love speaking at events about projects I've worked on or technology I have used. Here is a list of the speaking I have done. In addition to the conferences listed below I have also spoken a bunch of times at local and remote meetups.
 Previous Talks:
